@@ -22,7 +22,7 @@ Bu, şablonlama için Node.js, Express, MongoDB ve EJS kullanılarak oluşturulm
 - **Marked**: Markdown ayrıştırıcısı
 - **DOMPurify**: HTML temizleme için kütüphane
 
-### Gereksinimler
+### Önkoşullar
 - Node.js
 - MongoDB
 
